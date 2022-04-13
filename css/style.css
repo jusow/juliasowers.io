@@ -540,9 +540,7 @@ nav ul li a {
 #contact  #sendmessage {
   color: #18d26e;
   border: 1px solid #18d26e;
-  /*
   display: none;
-  */
   text-align: center;
   padding: 15px;
   font-weight: 600;
@@ -551,9 +549,7 @@ nav ul li a {
 
 #contact  #errormessage {
   color: red;
-  /*
   display: none;
-  */
   border: 1px solid red;
   text-align: center;
   padding: 15px;
